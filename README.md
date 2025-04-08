@@ -7,4 +7,9 @@
 
 ![Paulindaniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulindaniel&show_icons=true&theme=radical)
 
+### 🐍 Snake game contribution graph
+
+![snake gif](https://raw.githubusercontent.com/paulindaniel/paulindaniel/output/github-contribution-grid-snake.svg)
+
+
 
